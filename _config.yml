@@ -12,7 +12,7 @@ info:
 
 
 ############################### 主题样式 ###############################
-# style: material    # material: 导航栏和标题栏背景是主题色
+#style: material    # material: 导航栏和标题栏背景是主题色
 style: pure        # pure: 导航栏和标题栏背景是白色
 
 
@@ -33,7 +33,6 @@ services:
   share: true
   qrcode: true    # 需要安装插件  npm i -S hexo-helper-qrcode
 
-
 ############################### 杂项 ###############################
 # 音乐控件的默认配置，如果sidebar或者page里没有提供，就取这里的参数
 music:
@@ -52,7 +51,6 @@ music:
     page: false      # layout: page 的页面是否显示
     links: true      # layout: links 的页面是否显示
     post: true       # layout: post 的页面是否显示
-
 
 
 # 友链页头像占位图
